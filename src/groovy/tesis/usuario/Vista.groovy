@@ -1,0 +1,31 @@
+package tesis.usuario;
+
+public enum Vista {
+    ABM_Marcas,
+    Consultar_Stock,
+    ABM_Articulos_Comprados,
+    Modificar_Niveles_De_Stock,
+    ABM_Articulos_Elaborados,
+    ABM_Tipos_De_Articulos,
+    ABM_Unidades_De_Medida,
+    ABM_Tipos_De_Documentos,
+    ABM_Clientes,
+    ABM_Proveedores,
+    ABM_Condiciones_De_IVA,
+    ABM_Presentaciones,
+    ABM_Tipos_De_Usuarios,
+    ABM_Rubros,
+    ABM_Subrubros,
+    ABM_Localidades,
+    ABM_Provincias,
+    ABM_Paises,
+    ABM_Mesas,
+    ABM_Tipos_De_Descuentos,
+    ABM_Cargos,
+    ABM_Empleados,
+    ABM_Lugar_De_Preparacion,
+    ABM_Usuarios,
+    ABM_Metodos_De_Pago,
+    ABM_Carta,
+    Consultar_Carta
+}
